@@ -31,6 +31,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ![Screenshot 2023-09-17 021256](https://github.com/ShanmathiShanmugam/InformationGathering/assets/121243595/23738b57-364b-4732-9081-7589d3ceffe6)
 
+
+
+
 ### HISTORY OF WEBSITE:
 
 ![Screenshot 2023-09-17 021640](https://github.com/ShanmathiShanmugam/InformationGathering/assets/121243595/238030a2-3041-4c8d-a29d-7f5179b0bfbe)
